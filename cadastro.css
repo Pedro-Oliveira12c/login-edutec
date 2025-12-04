@@ -39,8 +39,9 @@ body {
 a img{
     display: flex;
     margin-left:28rem ;
-    margin-top: -4rem;
+    margin-top: -1rem;
 }
+
 .title {
     font-size: 28px;
     font-weight: bold;
